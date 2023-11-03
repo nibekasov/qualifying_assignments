@@ -18,8 +18,8 @@ pip install -r requirements.txt
 project_name/
 │
 ├── data/
-│   ├── raw/                  # Raw data, immutable
-│   └── processed/            # Cleaned and processed data
+│   ├── raw/                        # Raw data, immutable
+│   └── processed/                  # Cleaned and processed data
 │
 ├── notebooks/
 │   ├── 01_data_preprocessing.ipynb
@@ -38,6 +38,7 @@ project_name/
 │   ├── test_data_analysis.py
 │   └── test_visualization.py
 │
-├── Task_RFB.ipynb            # One file solution
-├── requirements.txt          # Project dependencies
-└── README.md                 # Project description and instructions
+├── Task_RaiFaizenBank.html
+├── Task_RaiFaizenBank.ipynb        # One file solution
+├── requirements.txt                # Project dependencies
+└── README.md                       # Project description and instructions
