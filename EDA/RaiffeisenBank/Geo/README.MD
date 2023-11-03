@@ -23,8 +23,8 @@ project_name/
 │
 ├── notebooks/
 │   ├── 01_data_preprocessing.ipynb
-│   ├── 02_data_analysis.ipynb
-│   └── 03_results_visualization.ipynb
+│   └── 02_data_analysis.ipynb
+│ 
 │
 ├── src/
 │   ├── __init__.py
@@ -38,5 +38,6 @@ project_name/
 │   ├── test_data_analysis.py
 │   └── test_visualization.py
 │
+├── Task_RFB.ipynb            # One file solution
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project description and instructions
