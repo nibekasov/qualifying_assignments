@@ -13,7 +13,7 @@ git clone https://github.com/nibekasov/qualifying_assignments/edit/main/EDA/Raif
 cd SAM-Analysis
 pip install -r requirements.txt
 
-
+```bash
 project_name/
 │
 ├── data/
