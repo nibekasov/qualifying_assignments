@@ -1,10 +1,19 @@
-Привет!
+# Social Activity Monitor (SAM) Analysis
 
-Вам предстоит выполнить задание, которое находится в Task.ipynb. Такие файлы открываются с помощью Jupyter Notebook + Python. Если он у вас не установлен, то рекомендую обратить внимание на дистрибутив Ananconda. Удачи!
+## Project Description
 
-предполагаемая структура проекта
+The Social Activity Monitor (SAM) Analysis project aims to provide insights into social behaviors by analyzing geolocation data. It leverages data processing techniques to quantify social activity levels based on location data, points of interest (POIs), and time spent in different locales. The project is designed to assist researchers and businesses, such as banking institutions, to understand social patterns for various applications, including credit risk analysis and targeted marketing.
 
-'''
+## Installation
+
+Instructions on setting up the project environment.
+
+```bash
+git clone https://github.com/nibekasov/qualifying_assignments/edit/main/EDA/RaiffeisenBank/Geo.git
+cd SAM-Analysis
+pip install -r requirements.txt
+
+
 project_name/
 │
 ├── data/
@@ -30,4 +39,3 @@ project_name/
 │
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project description and instructions
-''';
