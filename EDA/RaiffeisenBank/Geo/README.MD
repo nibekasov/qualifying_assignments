@@ -12,7 +12,7 @@ Instructions on setting up the project environment.
 git clone https://github.com/nibekasov/qualifying_assignments/edit/main/EDA/RaiffeisenBank/Geo.git
 cd SAM-Analysis
 pip install -r requirements.txt
-
+```
 ```bash
 project_name/
 │
