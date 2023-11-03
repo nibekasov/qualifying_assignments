@@ -10,7 +10,7 @@ Instructions on setting up the project environment.
 
 ```bash
 git clone https://github.com/nibekasov/qualifying_assignments/edit/main/EDA/RaiffeisenBank/Geo.git
-cd SAM-Analysis
+cd Geo
 pip install -r requirements.txt
 ```
 ## Structure of project potential
