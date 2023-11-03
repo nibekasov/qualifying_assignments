@@ -4,6 +4,7 @@
 
 предполагаемая структура проекта
 
+'''
 project_name/
 │
 ├── data/
@@ -29,3 +30,4 @@ project_name/
 │
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project description and instructions
+''';
