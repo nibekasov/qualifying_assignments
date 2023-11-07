@@ -13,7 +13,20 @@ So depending on our analysis few takeaways schould be considered:
 2. Using time of the day solely as feature could be controversial, cause if person in other part of the world his activity could shift a lot - so we should consider this in ananlysis
 3. We need to determine schould we consider regular life of hollidays life too? It's controversial because at hollidays people shift lifestile a lot. If we would consider some analysis based on holidays we schould extract point of interest for all possible destinations of our people. It is crucial so we could calculate metrics better 
 
+## Few wordsfor reviewer
 
+Solution in one file with visualisation and outputs: 
+https://github.com/nibekasov/qualifying_assignments/blob/main/EDA/RaiffeisenBank/Geo/Task_RaiFaizenBank.ipynb
+
+The main part of the code is in here ( same nn\otebook but without unnesesery functions): https://github.com/nibekasov/qualifying_assignments/blob/main/EDA/RaiffeisenBank/Geo/notebooks/02_data_analysis.ipynb
+
+All functions used for this notebook is in this directory: 
+https://github.com/nibekasov/qualifying_assignments/tree/main/EDA/RaiffeisenBank/Geo/src
+
+I recomend to focus mostly on this file with preprocessing and metrics calculation: 
+https://github.com/nibekasov/qualifying_assignments/blob/main/EDA/RaiffeisenBank/Geo/src/data_analysis.py
+
+In other py files we could find functions to extract data to local data base, functions for visualuisaation and other preprocessing.
 ## Project Description
 
 The Social Activity Monitor (SAM) Analysis project aims to provide insights into social behaviors by analyzing geolocation data. It leverages data processing techniques to quantify social activity levels based on location data, points of interest (POIs), and time spent in different locales. The project is designed to assist researchers and businesses, such as banking institutions, to understand social patterns for various applications, including credit risk analysis and targeted marketing.
