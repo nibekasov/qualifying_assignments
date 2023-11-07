@@ -13,7 +13,7 @@ So depending on our analysis few takeaways schould be considered:
 2. Using time of the day solely as feature could be controversial, cause if person in other part of the world his activity could shift a lot - so we should consider this in ananlysis
 3. We need to determine schould we consider regular life of hollidays life too? It's controversial because at hollidays people shift lifestile a lot. If we would consider some analysis based on holidays we schould extract point of interest for all possible destinations of our people. It is crucial so we could calculate metrics better 
 
-## Few wordsfor reviewer
+## Few words for reviewer
 
 Solution in one file with visualisation and outputs: 
 https://github.com/nibekasov/qualifying_assignments/blob/main/EDA/RaiffeisenBank/Geo/Task_RaiFaizenBank.ipynb
@@ -25,6 +25,9 @@ https://github.com/nibekasov/qualifying_assignments/tree/main/EDA/RaiffeisenBank
 
 I recomend to focus mostly on this file with preprocessing and metrics calculation: 
 https://github.com/nibekasov/qualifying_assignments/blob/main/EDA/RaiffeisenBank/Geo/src/data_analysis.py
+
+Also Html file is presented for solution https://github.com/nibekasov/qualifying_assignments/blob/main/EDA/RaiffeisenBank/Geo/Task_RaiFaizenBank.html
+So you shouldn't open jupiter notebook to see alll visualisations 
 
 In other py files we could find functions to extract data to local data base, functions for visualuisaation and other preprocessing.
 ## Project Description
